@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Testes
+.coverage
+.tox/
+.nox/
+*.log
+.local/
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Outros
+*.DS_Store
+*.pdb
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.tar.gz
+*.zip
+*.log
+*.pot
+*.pyc
